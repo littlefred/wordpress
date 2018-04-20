@@ -13,4 +13,4 @@ Téléchargez le plugin depuis l'interface administrateur de wordpress de votre 
 
 ### Utilisation :
 
-Insérez le short code à l'endroit de votre site où vous souhaitez insérer le texte.
+Insérez le short [simplon] code à l'endroit de votre site où vous souhaitez insérer le texte.
