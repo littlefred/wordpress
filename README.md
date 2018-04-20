@@ -3,20 +3,14 @@
 
 ### Description :
 
-...
+Plugin permettant d'insérer dans un contenu la mention demandée par l'école Simplon :
+'La publication de cet article est possible grâce à mon super partenaire simplon.co - une entreprise de
+l’économie sociale et solidaire et un réseau de « fabriques » (écoles) qui propose des formations GRATUITES pour devenir développeur web.'
 
 ### Installation :
 
-...
+Téléchargez le plugin depuis l'interface administrateur de wordpress de votre site.
 
 ### Utilisation :
 
-...
-
-### Ressources :
-#### Déclaration du plugin :
-https://openclassrooms.com/courses/propulsez-votre-site-avec-wordpress/creer-des-plugins#r-1892278  
-https://developer.wordpress.org/plugins/the-basics/header-requirements/
-
-#### Shortcodes :
-https://www.sitepoint.com/wordpress-shortcodes-tutorial/ - chapitre Simple Shortcodes 
+Insérez le short code à l'endroit de votre site où vous souhaitez insérer le texte.
