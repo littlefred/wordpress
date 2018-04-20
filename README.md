@@ -9,7 +9,7 @@ l’économie sociale et solidaire et un réseau de « fabriques » (écoles)
 
 ### Installation :
 
-Téléchargez le plugin depuis l'interface administrateur de wordpress de votre site.
+Téléchargez le plugin depuis l'interface administrateur de wordpress de votre site, puis activez le.
 
 ### Utilisation :
 
