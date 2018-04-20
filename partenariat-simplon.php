@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simplon plugin
-Plugin URI: https://github.com/littlefred/wordpress/blob/master/README.md
+Plugin URI: https://github.com/littlefred/wordpress
 Description: Un plugin d'ajout de la mention simplon pour le développement sous WordPress
 Version: 0.1
 Author: Frederick PAREJA
