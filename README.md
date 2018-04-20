@@ -9,7 +9,7 @@ l’économie sociale et solidaire et un réseau de « fabriques » (écoles)
 
 ### Installation :
 Télécharger les fichiers readme.md et partenariat-simplon.php puis les compresser en format zip.  
-Téléchargez le plugin depuis l'interface administrateur de wordpress de votre site, puis activez le.  
+Télécharger le plugin depuis l'interface administrateur de wordpress de votre site, puis l'activer (cf. étapes ci-dessous).  
 1 - allez dans le menu extension -> ajouter  
 2 - cliquer sur televerser une extension  
 3 - Selectionnez le fichier zip  
